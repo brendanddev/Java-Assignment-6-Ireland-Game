@@ -9,7 +9,7 @@ package test;
  * means the witch is able to increase the healers magic rating by 1. But to do so, the witch must have 3 or more strength,
  * and for every strengthen the witch performs, they lose 3 strength.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO
  */
 public class Witch extends Inhabitant {
     // Instance Variables:
