@@ -8,7 +8,7 @@ public class MainTwo {
      *
      * @param args, unused.
      *
-     * @author BRENDAN DILEO, 000879513.
+     * @author BRENDAN DILEO
      */
 
     public static void main(String[] args) {
