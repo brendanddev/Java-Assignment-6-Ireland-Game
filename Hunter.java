@@ -9,7 +9,7 @@ package test;
  * inhabitant class, but the attack method will be overridden because when a hunter attacks, it will do twice the damage
  * the other inhabitants do.
  *
- * @author BRENDAN DILEO, 000879513
+ * @author BRENDAN DILEO
  */
 public class Hunter extends Human {
 
