@@ -8,7 +8,7 @@ package test;
  * health. Additionally, since a werewolf can be a part of a pack, the class will also have methods allowing the werewolf
  * to join a pack, but once it is a part of a pack, it cannot leave.
  *
- * @author BRENDAN DILEO, 000879513
+ * @author BRENDAN DILEO
  */
 public class Werewolf extends Inhabitant {
     // Instance Variables:
