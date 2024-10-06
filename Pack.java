@@ -185,19 +185,6 @@ public class Pack {
         System.out.println("The pack is full! Find a new pack to join!");
     }
 
-    // Initially this method was responsible for removing a werewolf from the pack, but after reviewing my code, and the
-    // assignment instructions, I forgot it mentioned that once a werewolf has pled allegiance to a pack, it will not
-    // leave. However, I left the commented code in just in case.
-//    public void removeWerewolf(Werewolf werewolf) {
-//        for (int i = 0; i < werewolves.length; i++) {
-//            if (werewolves[i] == werewolf) {
-//                werewolves[i] = null;
-//                sizeOfPack--;
-//                return;
-//            }
-//        }
-//    }
-
     /**
      * This method will have similar logic to the 'addWerewolf' method, as it will essentially do the same thing, but for
      * the witch. The method is responsible for simulating a witch joining a pack, and will take a single parameter 'witch'
