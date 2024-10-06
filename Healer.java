@@ -13,7 +13,7 @@ import java.util.Random;
  * heal power. The heal method relies on the healer, and player being healed to be alive, and the healer must have enough
  * magic to perform a heal, as it will cost the healer 1 magic per heal.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO
  */
 
 public class Healer extends Human {
