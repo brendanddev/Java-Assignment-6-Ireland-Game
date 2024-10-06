@@ -8,7 +8,7 @@ import java.util.Random;
  * some cases the pack each inhabitant will have. This class serves as the starter model, where other class will inherit
  * from as all types of inhabitants will share similar qualities. (Will have the 'is a' relationship).
  *
- * @author BRENDAN DILEO, 000879513
+ * @author BRENDAN DILEO
  */
 public class Inhabitant {
     // Instance Variables:
