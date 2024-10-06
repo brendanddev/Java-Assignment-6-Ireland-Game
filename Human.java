@@ -8,7 +8,7 @@ package test;
  * from the inhabitant class. This class will not have an association with the pack class, as humans do not have the
  * option to be in a pack.
  *
- * @author BRENDAN DILEO, 000879513
+ * @author BRENDAN DILEO
  */
 
 public class Human extends Inhabitant {
