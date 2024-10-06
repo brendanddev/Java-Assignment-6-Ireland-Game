@@ -1,6 +1,6 @@
 # Java-Assignment-6-Ireland-Game
 
-This assignment I have constructed a model that reflects the inhabitants of Ballybeg, a small town teeming with mystical creatures - Werewolves, Witches, and Humans. Each inhabitant possesses distinctive attributes and abilities, integral to their existence within this fantastical world. This assignment emphasizes the use of inheritance, assosciation, encapsulation, and various concepts of logic in Java.
+For this program I have constructed a model that reflects the inhabitants of Ballybeg, a small town teeming with mystical creatures - Werewolves, Witches, and Humans. Each inhabitant possesses distinctive attributes and abilities, integral to their existence within this fantastical world. This assignment emphasizes the use of inheritance, assosciation, encapsulation, and various concepts of logic in Java.
 
 At the core of every inhabitant lies a set of attributes - Strength, Agility, and Health Rating, each ranging from 1 to 10. These attributes define their capabilities and resilience. Notably, Werewolves and Witches impose constraints on attribute values upon creation, ensuring a minimum threshold for each attribute. Additionally, an inhabitant's vitality is determined by their Health Rating; if it drops to zero, they are rendered deceased, incapable of resurrection.
 
